@@ -26,3 +26,6 @@ e ="a string with a right side."
 
 # concatenate values of two variables using + symbol
 print w+e
+
+# the last print statement is called string concatenation. Earlier print statements used string substitution. While both serve the same purpose,they are different and have a different impact on the performance of your code for large datasets
+# read this link for some notes on this - http://www.skymind.com/~ocrow/python_string/
